@@ -1,0 +1,6 @@
+name: dartbase
+version: 0.0.0
+author: Miroslav Raska <miroslav.raska@gmail.com>
+description: Web Application Framework
+dependencies:
+  browser: any
